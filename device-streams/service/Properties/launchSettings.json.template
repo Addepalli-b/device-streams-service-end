@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "DeviceStreamSample": {
+      "commandName": "Project",
+        "environmentVariables": {
+            "IOTHUB_CONNECTION_STRING": "HostName=Balajitesthub.azure-devices.net;SharedAccessKeyName=service;SharedAccessKey=YnSu10cN7HFCe12T4onRDLRCjrJB/BJgaomokbEMXVI=",
+            "DEVICE_ID": "iottestdev1",
+            "LOCAL_PORT":  "22"
+        }
+    }
+  }
+}

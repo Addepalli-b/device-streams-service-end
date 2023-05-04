@@ -1,0 +1,5 @@
+/Users/balaji/Desktop/Captic/IoT Hub testing/device-streams/service/obj/Debug/net5.0/service.csproj.AssemblyReference.cache
+/Users/balaji/Desktop/Captic/IoT Hub testing/device-streams/service/obj/Debug/net5.0/service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/balaji/Desktop/Captic/IoT Hub testing/device-streams/service/obj/Debug/net5.0/service.AssemblyInfoInputs.cache
+/Users/balaji/Desktop/Captic/IoT Hub testing/device-streams/service/obj/Debug/net5.0/service.AssemblyInfo.cs
+/Users/balaji/Desktop/Captic/IoT Hub testing/device-streams/service/obj/Debug/net5.0/service.csproj.CoreCompileInputs.cache
